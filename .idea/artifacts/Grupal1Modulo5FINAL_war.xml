@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Grupal1Modulo5FINAL:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Grupal1Modulo5FINAL</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Grupal1Modulo5FINAL-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Grupal1Modulo5FINAL:war exploded" />
+    </root>
+  </artifact>
+</component>
